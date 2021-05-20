@@ -1,0 +1,41 @@
+{
+  "name": "nuxt-now-ui-kit-pro",
+  "version": "1.1.0",
+  "description": "Nuxt Now UI Kit PRO - Premium Nuxt.js UI Kit for Bootstrap",
+  "author": "cristijora",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ditdot-dev/vue-flow-form": "^1.1.7",
+    "@nuxtjs/pwa": "3.3.5",
+    "bootstrap": "4.6.0",
+    "cross-env": "7.0.3",
+    "element-ui": "2.15.1",
+    "node-sass": "4.14.1",
+    "nouislider": "14.6.3",
+    "nuxt": "2.15.3",
+    "rellax": "1.12.1",
+    "tripetto-runner-autoscroll": "^4.0.2",
+    "tripetto-runner-foundation": "^5.0.1",
+    "tripetto-services": "^1.2.2",
+    "vue-lazyload": "1.3.3",
+    "vue-material": "^1.0.0-beta-15",
+    "vue2-google-maps": "0.10.7",
+    "vue2-transitions": "0.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "~2.15.0",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "@nuxtjs/tailwindcss": "^4.1.2",
+    "babel-plugin-component": "1.1.1",
+    "components": "^0.1.0",
+    "postcss": "^8.2.15",
+    "sass-loader": "10.1.1",
+    "vue": "^2.6.12"
+  }
+}

@@ -1,0 +1,5 @@
+# Project exclude paths
+/.nuxt/
+/.nuxt/dist/client/
+/dist/
+/node_modules/
