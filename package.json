@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-now-ui-kit-pro",
+  "name": "childabusehelp.com",
   "version": "1.1.0",
-  "description": "Nuxt Now UI Kit PRO - Premium Nuxt.js UI Kit for Bootstrap",
-  "author": "cristijora",
+  "description": "Children Abuse Help || Child Abuse Signs",
+  "author": "shadiq",
   "private": true,
   "scripts": {
     "dev": "nuxt",
