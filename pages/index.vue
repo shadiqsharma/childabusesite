@@ -25,9 +25,11 @@
                   <i class="now-ui-icons business_bulb-63"></i>
                 </div>
                 <div class="description">
-                  <h4 class="info-title">Collaborate on ideas</h4>
-                  <p>Your designer will come back to you with an initial set of ideas.</p>
-                  <a href="/QuestionForm" class="ml-3">Find more...</a>
+                  <h4 class="info-title">If you are a Child
+                  </h4>
+                  <p>You can talk to us about anything that is worrying you, online or on the phone. No worry is too big or too small.
+                  </p>
+                  <a href="/QuestionForm" class="ml-3 text-success">Report to <strong>Childline!</strong></a>
                 </div>
               </template>
             </card>
@@ -39,9 +41,11 @@
                   <i class="now-ui-icons business_badge"></i>
                 </div>
                 <div class="description">
-                  <h4 class="info-title">Pick your designer</h4>
-                  <p>Havenly interior designers are vetted professionals and real people.</p>
-                  <a href="#pablo">Find more...</a>
+                  <h4 class="info-title">If you are an Adult
+                  </h4>
+                  <p>If you’re worried about a child, you can always talk to us confidentially on our helpline for information and advice.
+                  </p>
+                  <a href="/QuestionForm" class="ml-3 text-success">Report to NSPCC</a>
                 </div>
               </template>
             </card>
@@ -53,9 +57,10 @@
                   <i class="now-ui-icons location_map-big"></i>
                 </div>
                 <div class="description">
-                  <h4 class="info-title">Visualize your room</h4>
-                  <p>Share a floor plan, and we'll create a visualization of your room.</p>
-                  <a href="#pablo" class="ml-3">Find more...</a>
+                  <h4 class="info-title">Online Sexual Abuse
+                  </h4>
+                  <p>Worried about online sexual abuse or the way someone has been communicating with you or your child online? </p>
+                  <a href="/QuestionForm" class="ml-3 text-success">Report to CE-OP </a>
                 </div>
               </template>
             </card>
@@ -227,104 +232,81 @@
 
       </div>
     </div>
-    <div class="pricing-2">
-      <div class="pricing-2" id="pricing-2">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6 ml-auto mr-auto text-center">
-              <h2 class="title">Pick the best plan for you</h2>
-              <tabs pills type="success" centered>
-                <tab-pane label="Legal Entity"></tab-pane>
-                <tab-pane label="Individual"></tab-pane>
-              </tabs>
-            </div>
+    <div class="projects-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 ml-auto mr-auto text-center">
+            <h2 class="title">Some of Our Awesome Projects - 5</h2>
+            <h4 class="description">This is the paragraph where you can write more details about your
+              projects. Keep you user engaged by providing meaningful information.</h4>
+            <div class="section-space"></div>
           </div>
-          <div class="row">
-            <div class="col-md-4">
-              <card type="pricing" plain>
-                <h6 class="category">Enterprise</h6>
-                <h1 class="card-title">
-                  <small>$</small>
-                  59
-                </h1>
-                <ul>
-                  <li>
-                    <b>10GB</b> Disk Space
-                  </li>
-                  <li>
-                    <b>100GB</b> Monthly Bandwidth
-                  </li>
-                  <li>
-                    <b>20</b> Email Accounts
-                  </li>
-                  <li>
-                    <b>Unlimited</b> subdomains
-                  </li>
-                </ul>
-                <n-button type="success" round>
-                  Sign Up
-                </n-button>
-              </card>
-            </div>
-            <div class="col-md-4">
-              <card type="pricing"
-                    raised
-                    class="card-background"
-                    style="background-image: url('img/pricing2.jpg')">
+        </div>
+        <div class="row">
+          <div class="col-md-5 ml-auto">
+            <card type="background" raised class="card-background-product"
+                  style="background-image: url('img/project8.jpg')">
+              <h2 class="card-title">Social Analytics</h2>
+              <p class="card-description">
+                Insight to help you create, connect, and convert. Understand Your Audience's
+                Interests, Influence, Interactions, and Intent. Discover emerging topics and
+                influencers to reach new audiences.
+              </p>
+              <badge type="neutral">Analytics</badge>
+            </card>
+          </div>
+          <div class="col-md-5 mr-auto">
+            <info-section type="danger"
+                          icon="now-ui-icons ui-2_chat-round"
+                          title="Listen to Social Conversations"
+                          description="Gain access to the demographics, psychographics, and location of unique people who talk about your brand."
+            />
 
-                <h6 class="category text-info">Professional</h6>
-                <h1 class="card-title">
-                  <small>$</small>
-                  29
-                </h1>
-                <ul>
-                  <li>
-                    <b>5GB</b> Disk Space
-                  </li>
-                  <li>
-                    <b>50GB</b> Monthly Bandwidth
-                  </li>
-                  <li>
-                    <b>10</b> Email Accounts
-                  </li>
-                  <li>
-                    <b>Unlimited</b> subdomains
-                  </li>
-                </ul>
-                <n-button class="btn-neutral" round>
-                  Sign Up
-                </n-button>
+            <info-section type="danger"
+                          icon="now-ui-icons business_chart-pie-36"
+                          title="Performance Analyze"
+                          description="Unify data from Facebook, Instagram, Twitter, LinkedIn, and Youtube to gain rich insights from easy-to-use reports."
+            />
 
-              </card>
-            </div>
-            <div class="col-md-4">
-              <card type="pricing" plain>
+            <info-section type="danger"
+                          icon="now-ui-icons design-2_ruler-pencil"
+                          title="Social Conversions"
+                          description="Track actions taken on your website that originated from social, and understand the impact on your bottom line."
+            />
 
-                <h6 class="category">Standard</h6>
-                <h1 class="card-title">
-                  <small>$</small>
-                  17
-                </h1>
-                <ul>
-                  <li>
-                    <b>2GB</b> Disk Space
-                  </li>
-                  <li>
-                    <b>25GB</b> Monthly Bandwidth
-                  </li>
-                  <li>
-                    <b>5</b> Email Accounts
-                  </li>
-                  <li>
-                    <b>Unlimited</b> subdomains
-                  </li>
-                </ul>
-                <a href="#pablo" class="btn btn-success btn-round">
-                  Get Started
-                </a>
+          </div>
+        </div>
+        <hr/>
+        <div class="row">
+          <div class="col-md-5 ml-auto mt-5">
+            <info-section type="warning"
+                          icon="now-ui-icons users_single-02"
+                          title="Work With Any Team"
+                          description="Whether it’s for work or even the next family vacation, Trello helps your team."
+            />
 
-              </card>
-            </div>
+            <info-section type="warning"
+                          icon="now-ui-icons business_chart-bar-32"
+                          title="A Productivity Platform"
+                          description="Integrate the apps your team already uses directly into your workflow."
+            />
+
+            <info-section type="warning"
+                          icon="now-ui-icons arrows-1_refresh-69"
+                          title="Always In Sync"
+                          description="No matter where you are, Trello stays in sync across all of your devices."
+            />
+          </div>
+          <div class="col-md-5 mr-auto">
+            <card type="background" raised class="card-background-product"
+                  style="background-image: url('img/project9.jpg')">
+              <h2 class="card-title">Trello lets you work.</h2>
+              <p class="card-description ">
+                Trello’s boards, lists, and cards enable you to organize and prioritize your
+                projects in a fun, flexible and rewarding way.
+              </p>
+              <badge type="neutral">Trello</badge>
+            </card>
           </div>
         </div>
       </div>
@@ -364,6 +346,7 @@
 </template>
 <script>
 import { Card, Button, FormGroupInput, Tabs, TabPane, RotatingCard } from '@/components';
+import {Badge, InfoSection} from '@/components';
 import initParallax from '@/utils/initParallax'
 
 export default {
@@ -375,7 +358,10 @@ export default {
     Tabs,
     TabPane,
     [Button.name]: Button,
-    [FormGroupInput.name]: FormGroupInput
+    [FormGroupInput.name]: FormGroupInput,
+    Badge,
+    InfoSection,
+
   },
   data() {
     return {
