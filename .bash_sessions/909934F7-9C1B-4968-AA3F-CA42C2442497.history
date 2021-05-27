@@ -1,0 +1,335 @@
+docker-compose build
+docker-compose up
+docker-compose up
+docker compose up
+npm install
+docker compose up
+docker compose build
+ls
+git clone git@github.com:charly24/nuxt-django.git
+git clone https://github.com/charly24/nuxt-django.git
+ls
+cd nuxt-django
+ls
+docker-compose up -d
+docker compose pull
+</dev/tcp/registry-1.docker.io/443 && echo Works || echo Problem
+curl https://registry-1.docker.io/v2/ && echo Works || echo Problem
+sudo service docker status
+sudo nano /etc/resolv.conf
+sudo systemctl restart docker
+ls
+docker compose up
+ls
+cd ..
+ls
+cd ..
+;;s
+ls
+cd python-django
+ls
+git clone https://gitlab.com/devs-group/base-wagtail.git && cd base-wagtail
+git clone https://gitlab.com/devs-group/base-wagtail.git && cd base-wagtail
+git clone https://gitlab.com/devs-group/base-wagtail.git && cd base-wagtail
+docker-compose pull -D
+docker-compose pull
+ls
+docker -v
+git -v
+pipenv
+venv
+python3 venv
+ls
+which python
+.../env/bin/python
+cd  .../env/bin/python
+cd .../env/bin/python
+python3 -m venv env
+source env/bin/activate
+ls
+deactivate
+python3 venv nameproject/env
+python3 venv wagtail2/env
+python3 -m  venv wagtail2/env
+ls
+cd wagtails2
+cd wagtail2
+ls
+source env/bin/activate
+ls
+deactivate
+source mywagtail2/bin/activate
+source env/bin/activate
+ls
+cd ..
+ls
+cd wagtail2
+ls
+pip install coderedcms
+/Volumes/Coding-space/backend/django/wagtails/wagtail2/env/bin/python3.9 -m pip install --upgrade pip
+coderedcms start myproject
+cd myproject/
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+deactivate
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd python-django
+ls
+cd 
+cd ..
+ls
+cd ..
+cd volumes
+ls
+cd coding-space
+ls
+cd backend
+ls
+cd python-django
+ls
+ls
+cd ..
+ls
+mkdir hasura-test
+cd hasura-test
+ls
+wget -O server/docker-compose.yaml https://raw.githubusercontent.com/hasura/graphql-engine/master/install-manifests/docker-compose/docker-compose.yaml
+ls
+cd ..
+ls
+mkdir nuxterp
+cd nuxterp
+ls
+git clone https://github.com/x249/erp.git
+yarn
+yarn dev
+ls
+cd erp
+ls
+yarn
+ls
+nvm use 14
+node --version
+yarn dev
+yarn install
+ls
+deactivate
+ls
+zsh
+yarn install
+yarn dev
+yarn
+npm i
+npm run dev
+npm install fibers
+npm i
+npm run dev
+npm install node-sass fibers sass-loader
+npm upgrade
+npm update
+npm run dev
+npm run dev
+npm run dev
+npm run dev
+npm run dev --fix
+npm run lint
+npm run --fix
+npm --fix
+yarn --fix
+yarn dev
+yarn dev
+chsh -s /bin/bash
+ls
+cd ..
+ls
+cd mysite/
+coderedcms start mysite --template sass --sitename
+coderedcms start mysite --template sass
+cd mysite/
+pip install -r requirements.txt -r requirements-dev.txt
+/Volumes/Coding-space/backend/django/dashboard/bin/python3.9 -m pip install --upgrade pip
+pip install -r requirements.txt -r requirements-dev.txt
+ls
+cd ..
+ls
+pip install -r requirements.txt -r requirements-dev.txt
+python manage.py migrate
+python manage.py createsuperuser
+ls
+cd mysite
+ls
+nano settings
+nano __init__.py
+cd ..
+ls
+nano requirements.txt
+nano website
+cd website
+l
+cd website
+ls
+nano models.py
+ls
+nano __init__.py
+ls
+deactivate
+deactivate
+venv deactivate
+zsh
+chsh -s /bin/bash
+ls
+pyenv shell 3.9.4
+/Users/shadiqsharma/.pyenv/versions/3.9.4/bin/python /Users/shadiqsharma/.vscode/extensions/ms-python.python-2021.5.842923320/pythonFiles/pyvsc-run-isolated.py /Users/shadiqsharma/.vscode/extensions/ms-python.python-2021.5.842923320/pythonFiles/shell_exec.py /Users/shadiqsharma/.pyenv/versions/3.9.4/bin/python /Users/shadiqsharma/.vscode/extensions/ms-python.python-2021.5.842923320/pythonFiles/pyvsc-run-isolated.py pip install -U ipykernel /var/folders/th/6yp_sm9d7nn8hf75dyk8v9nh0000gn/T/tmp-60768lNMThRcf1DVy.log
+/Users/shadiqsharma/.pyenv/versions/3.9.4/bin/python -m pip install --upgrade pip
+python -m venv tutorial-env
+python -m venv tutorial-env
+python -m venv ./venv/
+ls
+ls
+python3 -m venv nameproject/env
+source nameproject/env
+source /nameproject/env
+source /nameproject/env/activate
+source nameproject/bin/activate
+source /nameproject/bin/activate
+cd nameproject
+source ./venv/bin/activate
+source ./nameproject/bin/activate
+source /nameproject/env/activate
+source ./nameproject/env/activate
+ls
+cd..
+ls
+source ./nameproject/env/activate
+source /nameproject/env/activate
+source nameproject/env/activate
+source nameproject/activate
+source /nameproject/activate
+source nameproject/bin/activate
+python3 -m venv project
+source project/bin/activate
+ls
+cd project
+ls
+cd ..
+;s
+ls
+pip install coderedcms
+start mysite --template sass
+coderedcms start mysite --template sass 
+cd mysite/
+ls
+python manage.py migrate
+python manage.py sass website/static/website/src/custom.scss website/static/website/css/custom.css
+pip install -r requirements.txt -r requirements-dev.txt
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py sass website/static/website/src/custom.scss website/static/website/css/custom.css
+python manage.py sass website/static/website/src/custom.scss website/static/website/css/custom.css --watch
+python manage.py sass website/static/website/src/custom.scss website/static/website/css/custom.css --watch
+python manage.py sass website/static/website/src/custom.scss website/static/website/css/custom.css
+python manage.py runserver
+pip install django-allauth
+pip install --upgrade pip
+python manage.py migrate
+python manage.py runserver
+python3 manage.py runserver
+pip install django-allauth
+python3 manage.py runserver 8000
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh-keygen -R hostname
+ssh-keygen -R
+ssh-keygen -R hostname
+ssh root@172.105.113.84
+ssh-keygen -R typebyte.xyz
+ssh-keygen -R 172.105.113.84
+ssh-keygen -R 172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ls
+ssh root@172.105.113.84
+ls
+mac-cli
+mac help
+mac brew:update
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.105.113.84
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.105.113.84
+ssh root@172.104.185.118
+ls ~/.ssh/id_rsa*
+ssh-keygen -b 4096
+ssh-copy-id strapi@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+172.104.185.118
+ssh root@172.104.185.118
+ssh-keygen -R 198.51.100.4
+ssh-keygen -R 172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+brew install ssh-copy-id
+echo 'export PATH="/usr/local/opt/ssh-copy-id/bin:$PATH"' >> ~/.profile
+ssh-copy-id example_user@203.0.113.10
+cd /usr/bin/ssh-copy-id
+adduser example_user
+exit
+ls ~/.ssh/id_rsa*.
+ssh-keygen -b 4096
+scp ~/.ssh/id_rsa.pub example_user@172.104.185.118:~/.ssh/authorized_keys
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh example_user@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh root@172.104.185.118
+ssh example_user@172.104.185.118
+ssh example_user@172.104.185.118
+python3 --version
+python3 -m pip install --upgrade Pillow
+ssh root@172.104.185.118
+yarn 
+npm install
+git clone https://github.com/ramigs/strapi-users.git
+git clone https://github.com/ramigs/nuxt-auth.git
+ls
+cd nuxt-auth
+nvm use 14
+ls
+chsh -s /bin/zsh
+zsh
+zsh
+chsh -s /bin/zsh
+zsh
+zsh
+zsh
+zsh
+yarn dev
+zsh
+zsh
+code .
