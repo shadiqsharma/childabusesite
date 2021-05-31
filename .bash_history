@@ -1,26 +1,3 @@
-git clone https://gitlab.com/devs-group/base-wagtail.git && cd base-wagtail
-git clone https://gitlab.com/devs-group/base-wagtail.git && cd base-wagtail
-docker-compose pull -D
-docker-compose pull
-ls
-docker -v
-git -v
-pipenv
-venv
-python3 venv
-ls
-which python
-.../env/bin/python
-cd  .../env/bin/python
-cd .../env/bin/python
-python3 -m venv env
-source env/bin/activate
-ls
-deactivate
-python3 venv nameproject/env
-python3 venv wagtail2/env
-python3 -m  venv wagtail2/env
-ls
 cd wagtails2
 cd wagtail2
 ls
@@ -497,4 +474,27 @@ cd /usr/local/etc/php
 ls
 rm -rf 7.1
 brew doctor
+zsh
+zsh
+ls
+npm i concurrently --save-dev
+npm i
+ls
+ls
+cd primary
+ls
+yarn
+yarn 
+yarn dev
+npm run authenticated:dev
+ls 
+cd authenticated
+ls
+yarn dev
+cd ..
+ls
+yarn
+yarn dev
+ls
+ls
 zsh
